@@ -725,7 +725,6 @@ input {
         flex-direction: column;
         -webkit-box-align: center;
         align-items: center;
-        word-wrap: wrap;
     }
     .news-grid {
         grid-template-columns: 1fr;
